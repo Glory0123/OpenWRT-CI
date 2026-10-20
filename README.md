@@ -1,6 +1,6 @@
 # 固件简要说明
 
-QUALCOMMAX系列。
+QUALCOMMAX ipq60xx系列。
 
 # 目录简要说明
 
